@@ -67,7 +67,6 @@ You can customize the following parameters in `simple_twilio_example.py`:
 
 - `simple_twilio_example.py`: Main application code
 - `templates/twilio.xml`: TwiML configuration for Twilio
-- `hello.py`: Simple test script
 - `pyproject.toml`: Project metadata and dependencies
 - `uv.lock`: Lock file for dependencies
 
